@@ -2,8 +2,6 @@
 
 API REST para gestión de tareas construida con **FastAPI** y **SQLAlchemy**, con un frontend simple en HTML/CSS/JS puro para consumirla.
 
-Proyecto hecho como práctica de backend en Python, aplicando una arquitectura en capas (routers, schemas, models, database) y persistencia real en base de datos.
-
 ## Stack
 
 - **Backend:** FastAPI

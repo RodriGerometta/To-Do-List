@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entorno virtual
+venv/
+env/
+
+# Base de datos local
+*.db
+*.sqlite3
+
+# Editor
+.vscode/
+
+# Sistema operativo
+.DS_Store
